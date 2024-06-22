@@ -3,7 +3,7 @@ package sg.edu.np.mad.madpractical2;
 import android.os.Bundle;
 import android.widget.Button;
 import android.widget.TextView;
-
+import android.content.Intent;
 import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.graphics.Insets;
